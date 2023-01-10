@@ -14,3 +14,6 @@ public class eighty{
                 }}}
         System.out.println("SMALLEST NUMBER: "+a[a.length-1]);
     }}
+
+
+    
